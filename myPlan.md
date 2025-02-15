@@ -1,5 +1,9 @@
-| 任务编号 | 任务描述 | 完成状态 |
-|----------|----------|----------|
-| 1        | 任务一   | [ ]      |
-| 2        | 任务二   | [x]      |
-| 3        | 任务三   | [ ]      |
+# to-do-list-final
+### Date: 2015.02.15
+- Learning to code **[ ]**
+- Learning to write novels **[ ]**
+- Learning Classical Chinese **[ ]**
+- Learning to draw **[ ]**
+- Learning to play the guitar **[ ]**
+- Learning video editing **[ ]**
+- Learning animation production **[ ]**
