@@ -6,7 +6,7 @@
 - 1️⃣learning C++ **[ ]**
 - 2️⃣learning Vim **[ ]**
 - 3️⃣learning Papers **[ ]**
-- 4️⃣
+- 4️⃣learning english **[ ]**
 - 5️⃣
 - 6️⃣
 - 7️⃣
