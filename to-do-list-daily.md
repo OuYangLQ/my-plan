@@ -2,9 +2,9 @@
 
 ***
 ### 📆Date: 2025.02.15
-- 0️⃣learning javascript **[👌]**
-- 1️⃣learning C++ **[ ]**
-- 2️⃣learning Vim **[ ]**
+- 0️⃣earning javascript **[done]**
+- 1️⃣earning C++ **[done]*
+- 2️⃣learning Vim **[ ]*
 - 3️⃣learning Papers **[ ]**
 - 4️⃣learning english **[ ]**
 - 5️⃣
