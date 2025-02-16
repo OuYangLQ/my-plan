@@ -2,13 +2,13 @@
 
 ***
 ### 📆Date: 2025.02.15
-- 0️⃣earning javascript **[done]**
-- 1️⃣earning C++ **[done]*
-- 2️⃣learning Vim **[ ]*
-- 3️⃣learning Papers **[ ]**
-- 4️⃣learning english **[ ]**
-- 5️⃣
-- 6️⃣
-- 7️⃣
-- 8️⃣
+- 0️earning javascript [done]
+- 1️earning C++ [done]
+- 2️learning Vim [ ]
+- 3️learning Papers [ ]
+- 4️learning english [ ]
+- 5️
+- 6️
+- 7️
+- 8️
 ***
