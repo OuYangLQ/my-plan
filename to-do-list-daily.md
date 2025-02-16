@@ -1,14 +1,20 @@
-# to-do-list-daily
+## to-do-list-daily
+
 
 ***
-### 📆Date: 2025.02.15
-- 0️earning javascript [done]
-- 1️earning C++ [done]
-- 2️learning Vim [ ]
-- 3️learning Papers [ ]
-- 4️learning english [ ]
-- 5️
-- 6️
-- 7️
-- 8️
+### Date: 2015.02.16
+- Learning Javascript  **[done]**
+- Learning C++         **[done]**
+- Learning Vim         **[ ]**
+- Learning Papers      **[ ]**
+- Learning English     **[ ]**
+***
+
+***
+### Date: 2015.02.15
+- Learning Javascript  **[done]**
+- Learning C++         **[ ]**
+- Learning Vim         **[ ]**
+- Learning Papers      **[ ]**
+- Learning English     **[ ]**
 ***
