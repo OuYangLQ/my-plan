@@ -2,6 +2,36 @@
 
 
 ***
+### Date: 2015.02.21
+- Schedule appointments**[]**
+- Learning Javascript  **[]**
+- Learning C++         **[]**
+- Learning Papers      **[]**
+- Learning English     **[]**
+- Learning Vim         **[]**
+- Reading novels       **[]**
+- Watch Xuexi Qiangguo **[]**
+- Practice typing      **[]**
+- Exercise             **[]**
+***
+
+
+***
+### Date: 2015.02.20
+- Schedule appointments**[down]**
+- Learning Javascript  **[down]**
+- Learning C++         **[]**
+- Learning Papers      **[]**
+- Learning English     **[]**
+- Learning Vim         **[]**
+- Reading novels       **[]**
+- Watch Xuexi Qiangguo **[down]**
+- Practice typing      **[]**
+- Exercise             **[]**
+***
+
+
+***
 ### Date: 2015.02.19
 - Schedule appointments**[done]**
 - Learning Javascript  **[done]**
