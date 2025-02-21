@@ -2,16 +2,40 @@
 
 
 ***
+### Date: 2015.02.22
+- Schedule appointments                            **[]**
+- Learning HTML+CSS                                **[]**
+- Practice HTML                                    **[]**
+- Practice CSS                                     **[]**
+- Learning Javascript          *<035/200>*         **[]**
+- Practice Javascript          *<4/?>*             **[]**  {NOTE:Do it yourself -- Role Playing Game}
+- Learning C++ basic                               **[]**
+- Practice C++ basic                               **[]**
+- Learning Papers                                  **[]**
+- Learning English                                 **[]**
+- Learning Vim                                     **[]**
+- Reading novels                                   **[]**
+- Watch Xuexi Qiangguo                             **[]**
+- Practice typing                                  **[]**
+- Exercise                                         **[]**
+- Learning shell                                   **[]**
+***
+
+
+***
 ### Date: 2015.02.21
 - Schedule appointments                     **[]**
+- Learning HTML+CSS                         **[]**
+- Practice HTML                             **[]**
+- Practice CSS                              **[]**
 - Learning Javascript          *<035/200>*  **[down]**
-- Practice Javascript                       **[down]**  {NOTE:Do it yourself -- Role Playing Game}
+- Practice Javascript          *<4/?>*      **[down]**  {NOTE:Do it yourself -- Role Playing Game}
 - Learning C++ basic                        **[down]**
 - Practice C++ basic                        **[down]**
 - Learning Papers                           **[]**
 - Learning English                          **[]**
 - Learning Vim                              **[]**
-- Reading novels                            **[]**
+- Reading novels                            **[down]**
 - Watch Xuexi Qiangguo                      **[down]**
 - Practice typing                           **[]**
 - Exercise                                  **[]**
