@@ -4,15 +4,18 @@
 ***
 ### Date: 2015.02.21
 - Schedule appointments                     **[]**
-- Learning Javascript lecture  *<035/200>*  **[down]**
+- Learning Javascript          *<035/200>*  **[down]**
+- Practice Javascript                       **[down]**  {NOTE:Do it yourself -- Role Playing Game}
 - Learning C++ basic                        **[down]**
+- Practice C++ basic                        **[down]**
 - Learning Papers                           **[]**
 - Learning English                          **[]**
 - Learning Vim                              **[]**
 - Reading novels                            **[]**
-- Watch Xuexi Qiangguo                      **[]**
+- Watch Xuexi Qiangguo                      **[down]**
 - Practice typing                           **[]**
 - Exercise                                  **[]**
+- Learning shell                            **[]**
 ***
 
 
