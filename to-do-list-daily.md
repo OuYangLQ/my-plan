@@ -1,5 +1,28 @@
 ## to-do-list-daily
 
+find@ikuuu.pro
+
+
+***
+### Date: 2015.02.23
+- Schedule appointments                            **[]**
+- Learning HTML+CSS                                **[]**
+- Practice HTML                                    **[]**
+- Practice CSS                                     **[]**
+- Learning Javascript          *<038/200>*         **[down]**
+- Practice Javascript          *<5/?>*             **[down]**        {NOTE:Do it yourself -- Role Playing Game}
+- Learning C++ basic                               **[]**
+- Practice C++ basic                               **[]**
+- Learning Papers                                  **[down]**
+- Learning English                                 **[down]**
+- Learning Vim                                     **[]**
+- Reading novels                                   **[]**
+- Watch Xuexi Qiangguo                             **[down]**
+- Practice typing                                  **[]**
+- Exercise                                         **[]**
+- Learning shell                                   **[]**
+***
+
 
 ***
 ### Date: 2015.02.22
@@ -7,15 +30,15 @@
 - Learning HTML+CSS                                **[]**
 - Practice HTML                                    **[]**
 - Practice CSS                                     **[]**
-- Learning Javascript          *<035/200>*         **[]**
-- Practice Javascript          *<4/?>*             **[]**  {NOTE:Do it yourself -- Role Playing Game}
+- Learning Javascript          *<038/200>*         **[down]**
+- Practice Javascript          *<5/?>*             **[down]**        {NOTE:Do it yourself -- Role Playing Game}
 - Learning C++ basic                               **[]**
 - Practice C++ basic                               **[]**
-- Learning Papers                                  **[]**
-- Learning English                                 **[]**
+- Learning Papers                                  **[down]**
+- Learning English                                 **[down]**
 - Learning Vim                                     **[]**
 - Reading novels                                   **[]**
-- Watch Xuexi Qiangguo                             **[]**
+- Watch Xuexi Qiangguo                             **[down]**
 - Practice typing                                  **[]**
 - Exercise                                         **[]**
 - Learning shell                                   **[]**
