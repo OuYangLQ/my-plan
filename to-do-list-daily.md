@@ -9,6 +9,8 @@ find@ikuuu.pro
 - Learning HTML+CSS                                **[]**
 - Practice HTML                                    **[]**
 - Practice CSS                                     **[]**
+- Practice React                                   **[]**
+- practice Redux                                   **[down]**
 - Learning Javascript          *<038/200>*         **[down]**
 - Practice Javascript          *<5/?>*             **[down]**        {NOTE:Do it yourself -- Role Playing Game}
 - Learning C++ basic                               **[]**
@@ -16,7 +18,7 @@ find@ikuuu.pro
 - Learning Papers                                  **[down]**
 - Learning English                                 **[down]**
 - Learning Vim                                     **[]**
-- Reading novels                                   **[]**
+- Reading novels                                   **[down]**
 - Watch Xuexi Qiangguo                             **[down]**
 - Practice typing                                  **[]**
 - Exercise                                         **[]**
