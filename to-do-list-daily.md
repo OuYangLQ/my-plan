@@ -3,6 +3,53 @@
 find@ikuuu.pro
 
 
+
+***
+### Date: 2015.02.28
+
+## NOTE:
+						{Javascript:Do it yourself -- Role Playing Game}
+
+- Schedule appointments                            **[]**
+
+- Learning FontEnd = {HTML:*<10/100>*, CSS:, Javascript:*<038/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}	**[]**
+- Learning C++ basic                               **[]**
+- Learning Papers                                  **[]**
+- Learning English                                 **[]**
+- Learning Vim                                     **[]**
+- Learning shell                                   **[]**
+
+- Practice FontEnd = {HTML:, CSS:, Javascript:*<5/?>*, Libraries:{jQuery:, SASS:, React:, Redux:}}		**[]**
+- Practice C++ basic                               **[]**
+- Practice typing                                  **[]**
+- Watch Xuexi Qiangguo                             **[]**
+- Reading novels                                   **[]**
+- Exercise                                         **[]**
+***
+
+***
+### Date: 2015.02.27
+
+## NOTE:
+						{Javascript:Do it yourself -- Role Playing Game}
+
+- Schedule appointments                            **[]**
+
+- Learning FontEnd = {HTML:*<10/100>*, CSS:, Javascript:*<038/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}	**[down]**
+- Learning C++ basic                               **[down]**
+- Learning Papers                                  **[]**
+- Learning English                                 **[]**
+- Learning Vim                                     **[]**
+- Learning shell                                   **[]**
+
+- Practice FontEnd = {HTML:, CSS:, Javascript:*<5/?>*, Libraries:{jQuery:, SASS:, React:, Redux:}}		**[]**
+- Practice C++ basic                               **[]**
+- Practice typing                                  **[]**
+- Watch Xuexi Qiangguo                             **[down]**
+- Reading novels                                   **[down]**
+- Exercise                                         **[]**
+***
+
 ***
 ### Date: 2015.02.26
 
