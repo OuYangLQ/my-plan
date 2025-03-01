@@ -2,17 +2,15 @@
 
 find@ikuuu.pro
 
-
-
 ***
-### Date: 2015.02.28
+### Date: 2015.02.29
 
 ## NOTE:
 						{Javascript:Do it yourself -- Role Playing Game}
 
 - Schedule appointments                            **[]**
 
-- Learning FontEnd = {HTML:*<10/100>*, CSS:, Javascript:*<038/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}	**[]**
+- Learning FontEnd = {HTML:*<12/100>*, CSS:, Javascript:*<040/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}   **[]**
 - Learning C++ basic                               **[]**
 - Learning Papers                                  **[]**
 - Learning English                                 **[]**
@@ -28,6 +26,29 @@ find@ikuuu.pro
 ***
 
 ***
+### Date: 2015.02.28
+
+## NOTE:
+						{Javascript:Do it yourself -- Role Playing Game}
+
+- Schedule appointments                            **[]**
+
+- Learning FontEnd = {HTML:*<12/100>*, CSS:, Javascript:*<040/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}   **[down]**
+- Learning C++ basic                               **[down]**
+- Learning Papers                                  **[]**
+- Learning English                                 **[]**
+- Learning Vim                                     **[down]**
+- Learning shell                                   **[]**
+
+- Practice FontEnd = {HTML:, CSS:, Javascript:*<5/?>*, Libraries:{jQuery:, SASS:, React:, Redux:}}		**[]**
+- Practice C++ basic                               **[down]**
+- Practice typing                                  **[]**
+- Watch Xuexi Qiangguo                             **[down]**
+- Reading novels                                   **[down]**
+- Exercise                                         **[]**
+***
+
+***
 ### Date: 2015.02.27
 
 ## NOTE:
@@ -35,7 +56,7 @@ find@ikuuu.pro
 
 - Schedule appointments                            **[]**
 
-- Learning FontEnd = {HTML:*<10/100>*, CSS:, Javascript:*<038/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}	**[down]**
+- Learning FontEnd = {HTML:*<10/100>*, CSS:, Javascript:*<038/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}} **[down]**
 - Learning C++ basic                               **[down]**
 - Learning Papers                                  **[]**
 - Learning English                                 **[]**
