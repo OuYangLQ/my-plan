@@ -2,6 +2,51 @@
 
 find@ikuuu.pro
 
+
+### Date: 2015.03.05
+
+## NOTE:
+						{Javascript:Do it yourself -- Role Playing Game}
+
+- Schedule appointments                            **[]**
+
+- Learning FontEnd = {HTML:*<13/100>*, CSS:, Javascript:*<042/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}   **[]**
+- Learning C++ basic                               **[]**
+- Learning Papers                                  **[]**
+- Learning English                                 **[]**
+- Learning Vim                                     **[]**
+- Learning shell                                   **[]**
+
+- Practice FontEnd = {HTML:*<1/?>, CSS:, Javascript:*<5/?>*, Libraries:{jQuery:, SASS:, React:, Redux:}}		**[]**
+- Practice C++ basic                               **[]**
+- Practice typing                                  **[]**
+- Watch Xuexi Qiangguo                             **[]**
+- Reading novels                                   **[]**
+- Exercise                                         **[]**
+***
+
+### Date: 2015.03.04
+
+## NOTE:
+						{Javascript:Do it yourself -- Role Playing Game}
+
+- Schedule appointments                            **[]**
+
+- Learning FontEnd = {HTML:*<13/100>*, CSS:, Javascript:*<042/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}   **[]**
+- Learning C++ basic                               **[down]**
+- Learning Papers                                  **[down]**
+- Learning English                                 **[]**
+- Learning Vim                                     **[]**
+- Learning shell                                   **[]**
+
+- Practice FontEnd = {HTML:*<1/?>, CSS:, Javascript:*<5/?>*, Libraries:{jQuery:, SASS:, React:, Redux:}}		**[down]**
+- Practice C++ basic                               **[]**
+- Practice typing                                  **[]**
+- Watch Xuexi Qiangguo                             **[down]**
+- Reading novels                                   **[]**
+- Exercise                                         **[]**
+***
+
 ### Date: 2015.03.03
 
 ## NOTE:
@@ -9,7 +54,7 @@ find@ikuuu.pro
 
 - Schedule appointments                            **[]**
 
-- Learning FontEnd = {HTML:*<12/100>*, CSS:, Javascript:*<040/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}   **[]**
+- Learning FontEnd = {HTML:*<13/100>*, CSS:, Javascript:*<042/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}   **[down]**
 - Learning C++ basic                               **[]**
 - Learning Papers                                  **[]**
 - Learning English                                 **[]**
@@ -19,8 +64,8 @@ find@ikuuu.pro
 - Practice FontEnd = {HTML:, CSS:, Javascript:*<5/?>*, Libraries:{jQuery:, SASS:, React:, Redux:}}		**[]**
 - Practice C++ basic                               **[]**
 - Practice typing                                  **[]**
-- Watch Xuexi Qiangguo                             **[]**
-- Reading novels                                   **[]**
+- Watch Xuexi Qiangguo                             **[down]**
+- Reading novels                                   **[down]**
 - Exercise                                         **[]**
 ***
 
