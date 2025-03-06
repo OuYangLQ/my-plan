@@ -3,7 +3,7 @@
 find@ikuuu.pro
 
 
-### Date: 2015.03.05
+### Date: 2015.03.06
 
 ## NOTE:
 						{Javascript:Do it yourself -- Role Playing Game}
@@ -12,7 +12,31 @@ find@ikuuu.pro
 
 - Learning FontEnd = {HTML:*<13/100>*, CSS:, Javascript:*<042/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}   **[]**
 - Learning C++ basic                               **[]**
+- learning Python                                  **[]**
 - Learning Papers                                  **[]**
+- Learning English                                 **[]**
+- Learning Vim                                     **[]**
+- Learning shell                                   **[]**
+- learning CMake                                   **[down]**
+
+- Practice FontEnd = {HTML:*<1/?>, CSS:, Javascript:*<5/?>*, Libraries:{jQuery:, SASS:, React:, Redux:}}		**[]**
+- Practice C++ basic                               **[]**
+- Practice typing                                  **[]**
+- Watch Xuexi Qiangguo                             **[]**
+- Reading novels                                   **[]**
+- Exercise                                         **[]**
+***
+
+### Date: 2015.03.05
+
+## NOTE:
+						{Javascript:Do it yourself -- Role Playing Game}
+
+- Schedule appointments                            **[]**
+
+- Learning FontEnd = {HTML:*<13/100>*, CSS:, Javascript:*<042/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}   **[down]**
+- Learning C++ basic                               **[]**
+- Learning Papers                                  **[down]**
 - Learning English                                 **[]**
 - Learning Vim                                     **[]**
 - Learning shell                                   **[]**
@@ -20,7 +44,7 @@ find@ikuuu.pro
 - Practice FontEnd = {HTML:*<1/?>, CSS:, Javascript:*<5/?>*, Libraries:{jQuery:, SASS:, React:, Redux:}}		**[]**
 - Practice C++ basic                               **[]**
 - Practice typing                                  **[]**
-- Watch Xuexi Qiangguo                             **[]**
+- Watch Xuexi Qiangguo                             **[down]**
 - Reading novels                                   **[]**
 - Exercise                                         **[]**
 ***
