@@ -6,7 +6,7 @@ find@ikuuu.pro
 ### Date: 2015.03.10
 
 ## NOTE:
-                                        Paper[]      C++[]       web[]
+                                        Paper[down]      C++[down]       web[down]
 
 - Schedule appointments                            **[]**
 
