@@ -3,6 +3,79 @@
 find@ikuuu.pro
 
 
+
+### Date: 2015.03.13
+
+## NOTE:
+                                        Paper[]      C++[]       web[down]
+
+- Schedule appointments                            **[]**
+
+- Learning FontEnd = {HTML:*<13/100>*, CSS:, Javascript:*<042/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}   **[]**
+- Learning C++ basic                               **[]**
+- learning Python                                  **[]**
+- Learning Papers                                  **[]**
+- Learning English                                 **[]**
+- Learning Vim                                     **[]**
+- Learning shell                                   **[]**
+- learning CMake                                   **[]**
+
+- Practice FontEnd = {HTML:*<1/?>, CSS:, Javascript:*<5/?>*, Libraries:{jQuery:, SASS:, React:, Redux:}}		**[]**
+- Practice C++ basic                               **[]**
+- Practice typing                                  **[]**
+- Watch Xuexi Qiangguo                             **[]**
+- Reading novels                                   **[]**
+- Exercise                                         **[]**
+***
+
+### Date: 2015.03.12
+
+## NOTE:
+                                        Paper[down]      C++[down]       web[down]
+
+- Schedule appointments                            **[]**
+
+- Learning FontEnd = {HTML:*<13/100>*, CSS:, Javascript:*<042/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}   **[]**
+- Learning C++ basic                               **[]**
+- learning Python                                  **[]**
+- Learning Papers                                  **[]**
+- Learning English                                 **[]**
+- Learning Vim                                     **[]**
+- Learning shell                                   **[]**
+- learning CMake                                   **[]**
+
+- Practice FontEnd = {HTML:*<1/?>, CSS:, Javascript:*<5/?>*, Libraries:{jQuery:, SASS:, React:, Redux:}}		**[]**
+- Practice C++ basic                               **[]**
+- Practice typing                                  **[]**
+- Watch Xuexi Qiangguo                             **[]**
+- Reading novels                                   **[]**
+- Exercise                                         **[]**
+***
+
+### Date: 2015.03.11
+
+## NOTE:
+                                        Paper[down]      C++[down]       web[down]
+
+- Schedule appointments                            **[]**
+
+- Learning FontEnd = {HTML:*<13/100>*, CSS:, Javascript:*<042/200>*, Libraries:{jQuery:, SASS:, React:, Redux:}}   **[]**
+- Learning C++ basic                               **[]**
+- learning Python                                  **[]**
+- Learning Papers                                  **[]**
+- Learning English                                 **[]**
+- Learning Vim                                     **[]**
+- Learning shell                                   **[]**
+- learning CMake                                   **[]**
+
+- Practice FontEnd = {HTML:*<1/?>, CSS:, Javascript:*<5/?>*, Libraries:{jQuery:, SASS:, React:, Redux:}}		**[]**
+- Practice C++ basic                               **[]**
+- Practice typing                                  **[]**
+- Watch Xuexi Qiangguo                             **[]**
+- Reading novels                                   **[]**
+- Exercise                                         **[]**
+***
+
 ### Date: 2015.03.10
 
 ## NOTE:
