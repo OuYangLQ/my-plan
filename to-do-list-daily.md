@@ -3,10 +3,34 @@
 find@ikuuu.pro
 
 
+### date: 2015.03.16
+
+## note:
+                                    paper[]      c++[down]       web[down]     leetcode[down]
+
+- schedule appointments                            **[]**
+
+- learning fontend = {html:*<13/100>*, css:, javascript:*<042/200>*, libraries:{jquery:, sass:, react:, redux:}}   **[]**
+- learning c++ basic                               **[]**
+- learning python                                  **[]**
+- learning papers                                  **[]**
+- learning english                                 **[]**
+- learning vim                                     **[]**
+- learning shell                                   **[]**
+- learning cmake                                   **[]**
+
+- practice fontend = {html:*<1/?>, css:, javascript:*<5/?>*, libraries:{jquery:, sass:, react:, redux:}}		**[]**
+- practice c++ basic                               **[]**
+- practice typing                                  **[]**
+- watch xuexi qiangguo                             **[down]**
+- reading novels                                   **[down]**
+- exercise                                         **[]**
+***
+
 ### date: 2015.03.15
 
 ## note:
-                                    paper[]      c++[]       web[down]     leetcode[down]
+                                    paper[]      c++[down]       web[down]     leetcode[down]
 
 - schedule appointments                            **[]**
 
