@@ -3,6 +3,105 @@
 find@ikuuu.pro
 
 
+### date: 2015.04.01
+
+## note:
+                                                    Study Time:[4]
+                            font-end[2]             back-end[2]
+
+                                    paper[]      c++[]       web[down]     leetcode[]
+
+- schedule appointments                            **[]**
+
+- learning fontend = {html:*<13/100>*, css:, javascript:*<042/200>*, libraries:{jquery:, sass:, react:, redux:}}   **[]**
+- learning c++ basic                               **[]**
+- learning python                                  **[]**
+- learning papers                                  **[]**
+- learning english                                 **[]**
+- learning vim                                     **[]**
+- learning shell                                   **[]**
+- learning cmake                                   **[]**
+
+- practice fontend = {html:*<1/?>, css:, javascript:*<5/?>*, libraries:{jquery:, sass:, react:, redux:}}		**[]**
+- practice c++ basic                               **[]**
+- practice typing                                  **[]**
+- watch xuexi qiangguo                             **[]**
+- reading novels                                   **[down]**
+- exercise                                         **[]**
+***
+
+### date: 2015.03.25
+
+## note:
+                                    paper[]      c++[]       web[down]     leetcode[]
+
+- schedule appointments                            **[]**
+
+- learning fontend = {html:*<13/100>*, css:, javascript:*<042/200>*, libraries:{jquery:, sass:, react:, redux:}}   **[]**
+- learning c++ basic                               **[]**
+- learning python                                  **[]**
+- learning papers                                  **[]**
+- learning english                                 **[]**
+- learning vim                                     **[]**
+- learning shell                                   **[]**
+- learning cmake                                   **[]**
+
+- practice fontend = {html:*<1/?>, css:, javascript:*<5/?>*, libraries:{jquery:, sass:, react:, redux:}}		**[]**
+- practice c++ basic                               **[]**
+- practice typing                                  **[]**
+- watch xuexi qiangguo                             **[]**
+- reading novels                                   **[down]**
+- exercise                                         **[]**
+***
+
+### date: 2015.03.24
+
+## note:
+                                    paper[down]      c++[]       web[down]     leetcode[]
+
+- schedule appointments                            **[]**
+
+- learning fontend = {html:*<13/100>*, css:, javascript:*<042/200>*, libraries:{jquery:, sass:, react:, redux:}}   **[]**
+- learning c++ basic                               **[]**
+- learning python                                  **[]**
+- learning papers                                  **[]**
+- learning english                                 **[]**
+- learning vim                                     **[]**
+- learning shell                                   **[]**
+- learning cmake                                   **[]**
+
+- practice fontend = {html:*<1/?>, css:, javascript:*<5/?>*, libraries:{jquery:, sass:, react:, redux:}}		**[]**
+- practice c++ basic                               **[]**
+- practice typing                                  **[]**
+- watch xuexi qiangguo                             **[down]**
+- reading novels                                   **[]**
+- exercise                                         **[]**
+***
+
+### date: 2015.03.23
+
+## note:
+                                    paper[down]      c++[]       web[down]     leetcode[]
+
+- schedule appointments                            **[]**
+
+- learning fontend = {html:*<13/100>*, css:, javascript:*<042/200>*, libraries:{jquery:, sass:, react:, redux:}}   **[]**
+- learning c++ basic                               **[]**
+- learning python                                  **[]**
+- learning papers                                  **[]**
+- learning english                                 **[]**
+- learning vim                                     **[]**
+- learning shell                                   **[]**
+- learning cmake                                   **[]**
+
+- practice fontend = {html:*<1/?>, css:, javascript:*<5/?>*, libraries:{jquery:, sass:, react:, redux:}}		**[]**
+- practice c++ basic                               **[]**
+- practice typing                                  **[]**
+- watch xuexi qiangguo                             **[down]**
+- reading novels                                   **[]**
+- exercise                                         **[]**
+***
+
 ### date: 2015.03.22
 
 ## note:
