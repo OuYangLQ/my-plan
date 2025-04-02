@@ -7,7 +7,7 @@ find@ikuuu.pro
 
 ## note:
                                                     Study Time:[4]
-                            font-end[2]             back-end[2]
+    Web Bacic[]    Web Advanced[]   Project[1]   C++ Advanced[1]  Python[]  SQL[1]     
 
                                     paper[]      c++[]       web[down]     leetcode[]
 
