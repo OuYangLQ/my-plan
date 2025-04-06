@@ -3,6 +3,114 @@
 find@ikuuu.pro
 
 
+### date: 2015.04.06
+
+## note:
+                                                    Study Time:[14]
+    Web Bacic[]    Web Advanced[2]   Project[]   C++ Advanced[]  Python[]  SQL[]    English[]     
+
+                                    paper[]      c++[]       web[]     leetcode[]
+
+- schedule appointments                            **[]**
+
+- learning fontend = {html:*<13/100>*, css:, javascript:*<042/200>*, libraries:{jquery:, sass:, react:, redux:}}   **[]**
+- learning c++ basic                               **[]**
+- learning python                                  **[]**
+- learning papers                                  **[]**
+- learning english                                 **[]**
+- learning vim                                     **[]**
+- learning shell                                   **[]**
+- learning cmake                                   **[]**
+
+- practice fontend = {html:*<1/?>, css:, javascript:*<5/?>*, libraries:{jquery:, sass:, react:, redux:}}		**[]**
+- practice c++ basic                               **[]**
+- practice typing                                  **[]**
+- watch xuexi qiangguo                             **[]**
+- reading novels                                   **[down]**
+- exercise                                         **[]**
+***
+
+### date: 2015.04.05
+
+## note:
+                                                    Study Time:[10+1+1]
+    Web Bacic[1.5]    Web Advanced[2]   Project[1]   C++ Advanced[]  Python[]  SQL[1]    English[]     
+
+                                    paper[]      c++[]       web[]     leetcode[]
+
+- schedule appointments                            **[]**
+
+- learning fontend = {html:*<13/100>*, css:, javascript:*<042/200>*, libraries:{jquery:, sass:, react:, redux:}}   **[]**
+- learning c++ basic                               **[]**
+- learning python                                  **[]**
+- learning papers                                  **[]**
+- learning english                                 **[]**
+- learning vim                                     **[]**
+- learning shell                                   **[]**
+- learning cmake                                   **[]**
+
+- practice fontend = {html:*<1/?>, css:, javascript:*<5/?>*, libraries:{jquery:, sass:, react:, redux:}}		**[]**
+- practice c++ basic                               **[]**
+- practice typing                                  **[]**
+- watch xuexi qiangguo                             **[]**
+- reading novels                                   **[down]**
+- exercise                                         **[]**
+***
+
+### date: 2015.04.04
+
+## note:
+                                                    Study Time:[6+2]
+    Web Bacic[0.5]    Web Advanced[2]   Project[]   C++ Advanced[]  Python[]  SQL[]    English[]     
+
+                                    paper[]      c++[]       web[]     leetcode[]
+
+- schedule appointments                            **[]**
+
+- learning fontend = {html:*<13/100>*, css:, javascript:*<042/200>*, libraries:{jquery:, sass:, react:, redux:}}   **[]**
+- learning c++ basic                               **[]**
+- learning python                                  **[]**
+- learning papers                                  **[]**
+- learning english                                 **[]**
+- learning vim                                     **[]**
+- learning shell                                   **[]**
+- learning cmake                                   **[]**
+
+- practice fontend = {html:*<1/?>, css:, javascript:*<5/?>*, libraries:{jquery:, sass:, react:, redux:}}		**[]**
+- practice c++ basic                               **[]**
+- practice typing                                  **[]**
+- watch xuexi qiangguo                             **[]**
+- reading novels                                   **[down]**
+- exercise                                         **[]**
+***
+
+### date: 2015.04.03
+
+## note:
+                                                    Study Time:[4+2]
+    Web Bacic[]    Web Advanced[2]   Project[]   C++ Advanced[]  Python[]  SQL[]     
+
+                                    paper[]      c++[]       web[]     leetcode[]
+
+- schedule appointments                            **[]**
+
+- learning fontend = {html:*<13/100>*, css:, javascript:*<042/200>*, libraries:{jquery:, sass:, react:, redux:}}   **[]**
+- learning c++ basic                               **[]**
+- learning python                                  **[]**
+- learning papers                                  **[]**
+- learning english                                 **[]**
+- learning vim                                     **[]**
+- learning shell                                   **[]**
+- learning cmake                                   **[]**
+
+- practice fontend = {html:*<1/?>, css:, javascript:*<5/?>*, libraries:{jquery:, sass:, react:, redux:}}		**[]**
+- practice c++ basic                               **[]**
+- practice typing                                  **[]**
+- watch xuexi qiangguo                             **[]**
+- reading novels                                   **[down]**
+- exercise                                         **[]**
+***
+
 ### date: 2015.04.01
 
 ## note:
