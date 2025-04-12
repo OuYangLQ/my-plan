@@ -3,6 +3,58 @@
 find@ikuuu.pro
 
 
+### date: 2015.04.12
+
+## note:
+                                                Study Time:[26]
+
+- schedule Appointments                            **[]**
+
+- Other                                            **[2+2]**
+- learning Web Basic                               **[]**
+- learning Web Advanced                            **[16+2+2+2]**
+- learning Project                                 **[]**
+- learning SQL                                     **[1.5]**
+- learning C++ basic                               **[0.5]**
+- learning C++ Advanced                            **[]**
+- learning English                                 **[]**
+- learning Python                                  **[]**
+- learning Papers                                  **[]**
+- learning Vim                                     **[]**
+- learning Shell                                   **[]**
+- learning Cmake                                   **[]**
+- practice Typing                                  **[]**
+- watch Xuexi Qiangguo                             **[]**
+- reading Novels                                   **[]**
+- exercise                                         **[]**
+***
+
+### date: 2015.04.11
+
+## note:
+                                                Study Time:[18+2+2+2]
+
+- schedule Appointments                            **[]**
+
+- Other                                            **[2+2]**
+- learning Web Basic                               **[]**
+- learning Web Advanced                            **[16+2+2]**
+- learning Project                                 **[]**
+- learning SQL                                     **[1.5]**
+- learning C++ basic                               **[0.5]**
+- learning C++ Advanced                            **[]**
+- learning English                                 **[]**
+- learning Python                                  **[]**
+- learning Papers                                  **[]**
+- learning Vim                                     **[]**
+- learning Shell                                   **[]**
+- learning Cmake                                   **[]**
+- practice Typing                                  **[]**
+- watch Xuexi Qiangguo                             **[]**
+- reading Novels                                   **[]**
+- exercise                                         **[]**
+***
+
 ### date: 2015.04.10
 
 ## note:
